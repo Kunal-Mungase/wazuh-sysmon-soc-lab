@@ -99,8 +99,9 @@ LinkedIn Posts:
 https://www.linkedin.com/posts/kunalmungase_cfssintern2026-socanalyst-cybersecurity-ugcPost-7462166609332256768-V39q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACZGGgYBo_Jj3X43Uv1JkHmiSmu9Wg9VIao
 
 Contact: Kunal Mungase
-Location: Pune, Maharashtra
+
 mungasekunal18@gmail.com
+
 www.linkedin.com/in/kunalmungase 
 
 
