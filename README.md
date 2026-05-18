@@ -253,6 +253,7 @@ Applied search filters using Wazuh query syntax (e.g.,  rule.id:4624 ) and t
 
 --Evidence
 
+<img width="2880" height="1704" alt="Screenshot 2026-05-14 160738" src="https://github.com/user-attachments/assets/101269a6-2ca8-423a-aec9-cc1bb895131f" />
 
 
 -------------------------------------
