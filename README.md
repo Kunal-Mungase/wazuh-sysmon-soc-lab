@@ -7,7 +7,7 @@ wazuh-sysmon-soc-lab/
 
 ├── report/
 
-│   └── SOC_Project_Report.pdf
+ │   └── SOC_Project_Report.pdf
 
 ├── screenshots/
 
