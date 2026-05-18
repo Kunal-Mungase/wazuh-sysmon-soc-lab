@@ -200,7 +200,7 @@ Identified Wazuh Manager IP address from the VM console, configured agent's osse
 
 --Evidence-
 
-<img width="2880" height="1704" alt="Screenshot 2026-05-18 141235" src="https://github.com/user-attachments/assets/b3d55e94-5728-4b67-b59b-0d10ba814a85" />
+<img width="2880" height="1704" alt="Screenshot 2026-05-14 141222" src="https://github.com/user-attachments/assets/3fb6f190-1797-4696-aa64-857440d1be74" />
 
 Screenshot shows Wazuh dashboard displaying "1 Agent Active" 
 with green status indicator, confirming successful deployment.
@@ -441,8 +441,7 @@ Resolution: Realized monitoring index needs to be queried instead of alerts inde
 
 --Evidence
 
-<img width="2880" height="1704" alt="Screenshot 2026-05-14 141222" src="https://github.com/user-attachments/assets/3fb6f190-1797-4696-aa64-857440d1be74" /><img width="2880" height="1704" alt="Screenshot 2026-05-15 134950" src="https://github.com/user-attachments/assets/ca8981ff-695c-4b1d-a131-4c7168d294ee" />
-
+<img width="2880" height="1704" alt="Screenshot 2026-05-15 134950" src="https://github.com/user-attachments/assets/ca8981ff-695c-4b1d-a131-4c7168d294ee" />
 
 ---------------------------------
 ---------------------------------
