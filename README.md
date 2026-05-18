@@ -5,4 +5,4 @@ wazuh-sysmon-soc-lab/
 
 ├── README.md
 
-└── report & Screenshots/
+└── Report & Screenshots/
